@@ -1,0 +1,17 @@
+Total bytecount: 25137
+==========================
+FILE LIST
+
+.DS_Store
+ospathutils_finished.py
+shell_start.py
+testzip.zip
+files_finished.py
+newfile.txt
+shell_finished.py
+text.txt.bak
+challenge_solution.py
+challenge_answer.py
+archive.zip
+files_start.py
+ospathutils_start.py
